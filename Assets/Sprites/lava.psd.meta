@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: e1a7cc9e42aeb9f4280394f9b2b82789
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lava_0
+    21300002: lava_1
+    21300004: lava_2
+    21300006: lava_3
+    21300008: lava_4
+    21300010: lava_5
+    21300012: lava_6
+    21300014: lava_7
+    21300016: lava_8
+    21300018: lava_9
+    21300020: lava_10
+    21300022: lava_11
+    21300024: lava_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lava_0
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1031
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1021
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1016
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1008
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1003
+        width: 222
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_5
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1016
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_6
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1023
+        width: 142
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 895
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_8
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 914
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 679
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 537
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_11
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 607
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lava_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 393
+        width: 214
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
